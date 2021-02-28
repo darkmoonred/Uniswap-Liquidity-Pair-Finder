@@ -1,0 +1,46 @@
+.des {
+  color: #a6e8f1;
+  font-family: Orbitron, sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+}
+
+.inputc {
+  margin: 0 0 10px;
+  width: 300px;
+  height: 20px;
+  border: 2px solid #ba87ff;
+  padding: 10px 12px;
+  font-family: Orbitron, sans-serif;
+  border-radius: 3px;
+  filter: drop-shadow(0 0 0.75rem #ba87ff);
+  font-size: 14px;
+  font-weight: 800;
+  transition: 0.2s ease-in;
+  background: transparent;
+  color: #ffffff;
+  outline: none;
+}
+
+.button {
+  margin: 30px;
+  background-color: #d761ed;
+  color: #ffffff;
+  width: 100px;
+  height: 40px;
+  border: 2px solid #ba87ff;
+  padding: 10px 12px;
+  cursor: pointer;
+  opacity: 0.8;
+  font-family: Orbitron, sans-serif;
+  border-radius: 3px;
+  filter: drop-shadow(0 0 0.75rem #ba87ff);
+  font-size: 16px;
+  font-weight: 800px;
+  transition: 0.2s ease-in;
+}
+
+.button:hover {
+  filter: drop-shadow(0 0 1.75rem #ba87ff);
+  opacity: 1;
+}
