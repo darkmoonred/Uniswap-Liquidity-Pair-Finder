@@ -1,6 +1,6 @@
-Tool used to verify and find the uniswap liquidity pair provider tokens when providing the tokens original main contract address. Verify by viewing the info tab of the returned lp provider token address on etherscan. 
+Tool used to find and vereify the uniswap liquidity pair provider address when providing a tokens original main contract address. Verify by viewing the info tab of the returned lp provider token address on etherscan. 
 
-Makes it easy to find LP token addresses in advance without having to first provide liquidity. Helpful for yieldfarming, adding to metamask and analytics for non programmers.
+Makes it easy to find LP token addresses in advance without having to first provide liquidity. Helpful for yieldfarming, adding to metamask and analytics.
 
 live version of the tool here: https://young-scene-6783.on.fleek.co
 
